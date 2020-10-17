@@ -1,3 +1,3 @@
 # Description
 
-This repository contains labs from the Fondations of Natural Language Processing course.
+This repository contains labs from the Foundations of Natural Language Processing course.
